@@ -5,3 +5,4 @@ transformers
 streamlit
 matplotlib
 ultralytics
+cv2
