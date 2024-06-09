@@ -19,8 +19,8 @@ def get_model():
 processor, model = get_model()
 
 # Load the YOLOv8 model
-#D:\Belajar python\sirekap-trocr-Deploy\model\best (2).pt
-yolo_model_path = "./model/best (2).pt"
+#\sirekap-trocr-Deploy\model\best (2).pt
+yolo_model_path = "best (2).pt"
 yolo_model = YOLO(yolo_model_path)
 
 # Function to perform object detection
